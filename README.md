@@ -4,6 +4,8 @@ Uses the express and mysql2 package (also compatible with mysql package, althoug
 
 Run with `node` or `nodemon` after initializing with `npm i`.
 
+Test with Postman or something similar.
+
 ## Supports all CRUD operations
 
   - GET all courses,
